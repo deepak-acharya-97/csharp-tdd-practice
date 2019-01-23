@@ -1,0 +1,8 @@
+C:\Users\bl035e\Documents\playground\csharp\NumberSystemConverter.Tests\NumberSystemConverter\bin\Debug\netcoreapp2.1\NumberSystemConverter.deps.json
+C:\Users\bl035e\Documents\playground\csharp\NumberSystemConverter.Tests\NumberSystemConverter\bin\Debug\netcoreapp2.1\NumberSystemConverter.dll
+C:\Users\bl035e\Documents\playground\csharp\NumberSystemConverter.Tests\NumberSystemConverter\bin\Debug\netcoreapp2.1\NumberSystemConverter.pdb
+C:\Users\bl035e\Documents\playground\csharp\NumberSystemConverter.Tests\NumberSystemConverter\obj\Debug\netcoreapp2.1\NumberSystemConverter.csproj.CoreCompileInputs.cache
+C:\Users\bl035e\Documents\playground\csharp\NumberSystemConverter.Tests\NumberSystemConverter\obj\Debug\netcoreapp2.1\NumberSystemConverter.AssemblyInfoInputs.cache
+C:\Users\bl035e\Documents\playground\csharp\NumberSystemConverter.Tests\NumberSystemConverter\obj\Debug\netcoreapp2.1\NumberSystemConverter.AssemblyInfo.cs
+C:\Users\bl035e\Documents\playground\csharp\NumberSystemConverter.Tests\NumberSystemConverter\obj\Debug\netcoreapp2.1\NumberSystemConverter.dll
+C:\Users\bl035e\Documents\playground\csharp\NumberSystemConverter.Tests\NumberSystemConverter\obj\Debug\netcoreapp2.1\NumberSystemConverter.pdb

@@ -1,0 +1,17 @@
+C:\Users\bl035e\Documents\playground\csharp\NumberSystemConverter.Tests\NumberSystemConverter.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bl035e\Documents\playground\csharp\NumberSystemConverter.Tests\NumberSystemConverter.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bl035e\Documents\playground\csharp\NumberSystemConverter.Tests\NumberSystemConverter.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bl035e\Documents\playground\csharp\NumberSystemConverter.Tests\NumberSystemConverter.Tests\bin\Debug\netcoreapp2.1\NumberSystemConverter.Tests.deps.json
+C:\Users\bl035e\Documents\playground\csharp\NumberSystemConverter.Tests\NumberSystemConverter.Tests\bin\Debug\netcoreapp2.1\NumberSystemConverter.Tests.runtimeconfig.json
+C:\Users\bl035e\Documents\playground\csharp\NumberSystemConverter.Tests\NumberSystemConverter.Tests\bin\Debug\netcoreapp2.1\NumberSystemConverter.Tests.runtimeconfig.dev.json
+C:\Users\bl035e\Documents\playground\csharp\NumberSystemConverter.Tests\NumberSystemConverter.Tests\bin\Debug\netcoreapp2.1\NumberSystemConverter.Tests.dll
+C:\Users\bl035e\Documents\playground\csharp\NumberSystemConverter.Tests\NumberSystemConverter.Tests\bin\Debug\netcoreapp2.1\NumberSystemConverter.Tests.pdb
+C:\Users\bl035e\Documents\playground\csharp\NumberSystemConverter.Tests\NumberSystemConverter.Tests\bin\Debug\netcoreapp2.1\NumberSystemConverter.dll
+C:\Users\bl035e\Documents\playground\csharp\NumberSystemConverter.Tests\NumberSystemConverter.Tests\bin\Debug\netcoreapp2.1\NumberSystemConverter.pdb
+C:\Users\bl035e\Documents\playground\csharp\NumberSystemConverter.Tests\NumberSystemConverter.Tests\obj\Debug\netcoreapp2.1\NumberSystemConverter.Tests.csprojAssemblyReference.cache
+C:\Users\bl035e\Documents\playground\csharp\NumberSystemConverter.Tests\NumberSystemConverter.Tests\obj\Debug\netcoreapp2.1\NumberSystemConverter.Tests.csproj.CoreCompileInputs.cache
+C:\Users\bl035e\Documents\playground\csharp\NumberSystemConverter.Tests\NumberSystemConverter.Tests\obj\Debug\netcoreapp2.1\NumberSystemConverter.Tests.AssemblyInfoInputs.cache
+C:\Users\bl035e\Documents\playground\csharp\NumberSystemConverter.Tests\NumberSystemConverter.Tests\obj\Debug\netcoreapp2.1\NumberSystemConverter.Tests.AssemblyInfo.cs
+C:\Users\bl035e\Documents\playground\csharp\NumberSystemConverter.Tests\NumberSystemConverter.Tests\obj\Debug\netcoreapp2.1\NumberSystemConverter.Tests.csproj.CopyComplete
+C:\Users\bl035e\Documents\playground\csharp\NumberSystemConverter.Tests\NumberSystemConverter.Tests\obj\Debug\netcoreapp2.1\NumberSystemConverter.Tests.dll
+C:\Users\bl035e\Documents\playground\csharp\NumberSystemConverter.Tests\NumberSystemConverter.Tests\obj\Debug\netcoreapp2.1\NumberSystemConverter.Tests.pdb
