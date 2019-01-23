@@ -13,5 +13,13 @@ namespace NumberSystemConverter.Tests
             RomanNumeralConverter romanNumeralConverter = new RomanNumeralConverter();
             romanNumeralConverter.ConvertRomanNumeral(3001);
         }
+
+        [TestMethod]
+        [ExpectedException(typeof(IndexOutOfRangeException))]
+        public void NumberLessThan0ThrowsIndexOutOfRangeException()
+        {
+            RomanNumeralConverter romanNumeralConverter = new RomanNumeralConverter();
+            romanNumeralConverter.ConvertRomanNumeral(-1);
+        }
     }
 }
