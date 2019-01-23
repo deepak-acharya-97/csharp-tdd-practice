@@ -1,13 +1,25 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace NumberSystemConverter.Tests
 {
     [TestClass]
-    class RomanNumeralConverterExpectedValuesUnitTests
+    public class RomanNumeralConverterExpectedValuesUnitTests
     {
+        [TestMethod]
+        public void NumberEqualOneExpectedResultI()
+        {
+            string result = ConvertIntToRoman(1);
+            Assert.AreEqual("I", result);
+        }
+
+        [TestMethod]
+        public void NumberEqualThreeThousandExpectedResultMMM()
+        {
+            string result = ConvertIntToRoman(1);
+            Assert.AreEqual("MMM", result);
+        }
+
         private string ConvertIntToRoman(int num)
         {
             return new RomanNumeralConverter().ConvertRomanNumeral(num);
