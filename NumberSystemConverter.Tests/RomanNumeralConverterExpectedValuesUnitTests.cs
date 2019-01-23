@@ -16,7 +16,7 @@ namespace NumberSystemConverter.Tests
         [TestMethod]
         public void NumberEqualThreeThousandExpectedResultMMM()
         {
-            string result = ConvertIntToRoman(1);
+            string result = ConvertIntToRoman(3000);
             Assert.AreEqual("MMM", result);
         }
 
